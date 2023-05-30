@@ -1,0 +1,199 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Sora', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.nav {
+    background: #424242;
+    width: 1900px;
+    height: 44px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav a {
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 44px;
+    /* or 367% */
+    color: #F5F5F7;
+    text-decoration: none;
+
+}
+
+
+.text h1 {
+    margin-top: 82px;
+    display: flex;
+    margin-left: 730px;
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 44px;
+    /* identical to box height, or 79% */
+
+
+    color: #1D1D1F;
+
+}
+
+.text h3 {
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 44px;
+    /* identical to box height, or 157% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.035em;
+
+    color: #000000;
+    margin-top: 9px;
+    margin-left: 840px
+}
+
+.text a {
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 44px;
+    /* identical to box height, or 210% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+
+    color: #0066CC;
+
+    margin-top: 2px;
+    margin-left: 845px;
+    text-decoration: none;
+
+}
+
+.img {
+    margin-top: 10px;
+}
+
+.texts a {
+    margin-top: 30px;
+    margin-left: 840px;
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 44px;
+    /* identical to box height, or 210% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+
+    color: #0066CC;
+    text-decoration: none;
+
+
+
+}
+
+.texts h1 {
+    margin-left: 800px;
+    font-size: 50px;
+
+}
+
+.texts h2 {
+    margin-left: 720px
+}
+
+.imgs {
+    margin-left: 265px;
+}
+
+.promo {
+    margin-top: 30px;
+    margin: 0 auto;
+    margin-left: 50px;
+}
+
+.see {
+    display: flex;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.sees {
+    margin-top: 20px;
+    display: flex;
+    text-decoration: none;
+}
+
+.seec {
+    margin-top: 20px;
+    display: flex;
+    text-decoration: none;
+}
+
+
+.see a {
+    text-decoration: none;
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 44px;
+    /* identical to box height, or 210% */
+    letter-spacing: 0.005em;
+
+    color: #0066CC;
+    text-decoration: none;
+
+}
+
+.seec a {
+    text-decoration: none;
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 44px;
+    /* identical to box height, or 210% */
+
+
+ 
+    letter-spacing: 0.005em;
+
+    color: #0066CC;
+    text-decoration: none;
+
+}
+
+.sees a {
+    text-decoration: none;
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 44px;
+    /* identical to box height, or 210% */
+
+    display: flex;
+
+    letter-spacing: 0.005em;
+
+    color: #0066CC;
+    text-decoration: none;
+
+}
